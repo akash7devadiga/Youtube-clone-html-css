@@ -57,3 +57,17 @@
 # column-gap - to define space between columns
 
 # row-gap - to define space between rows
+
+# Flexbox - flex: 1 - take up the remaining amount of space.
+
+# The layout of grid is more rigid
+
+# if we want a flexible layout use flexbox instead of grid.
+
+# justify-content: space-between - aligns the elements horizantally with equal space between them.
+
+# to align items vertically using flexbox use the propery align-items: [stretch (default)| start | end | center];
+
+# limit the width using max-width
+
+# flex-shrink: 0 - prevents the section from shinking. width: 0 to shrink
